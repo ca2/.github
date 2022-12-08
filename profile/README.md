@@ -33,7 +33,7 @@
 <h4>
     <a href="https://github.com/ca2/app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ca2/app">Documentation</a>
+    <a href="https://ca2.software/documentation/">Documentation</a>
   <span> · </span>
     <a href="https://github.com/ca2/app/issues/">Report Bug</a>
   <span> · </span>
