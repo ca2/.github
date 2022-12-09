@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary>Cooperative with other C++ frameworks and with C eco-system</summary>
+  <summary>Cooperative with other C++ frameworks and with the C eco-system</summary>
   <ul>
     <li>ca2 seeks to work together with other C++ frameworks and user C libraries.</li>
   </ul>
