@@ -196,13 +196,22 @@ git clone https://github.com/ca2/storage-windows $HOME/operating-system/storage-
 git clone https://github.com/ca2/windows-simple-solution $HOME/simple --recurse-submodules
 ```
 
-### Please Open:
+### Finally open a solution
 
 ```bash
 start $HOME/simple/operating-system/operating-system-windows/_seed/simple.sln
 ```
-It will open "**simple.sln**" from folder "**operating-system-window/_seed**" at **Visual Studio**.
+It will open the "**simple.sln**" from folder "**operating-system-window/_seed**" at **Visual Studio**.
 
+You can find other solution files in this folder containing different set of projects.
+
+Many of the solution files wouldn't work because many repositories are not present in this simplified set of repositories. 
+
+If you browse the repository you just cloned above - https://github.com/ca2/storage-windows - you going to notice it is a link to other repositories in three or more levels.
+
+There are set of repositories with more or less sub-repositories.
+
+You can create your own repository with the proper layout including ca2 sub-repositories and your own private or public repositories to work in some project of your own.
 
 <!-- Contact -->
 ## Contact
