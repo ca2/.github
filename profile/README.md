@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Your Application</h1>
+  <h1>Application Code</h1>
   <img src="https://github.com/ca2/app/blob/basis/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
   <h1 style="border:none;">ca2 Framework<br> 
