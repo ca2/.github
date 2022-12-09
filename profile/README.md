@@ -61,7 +61,7 @@
 # Features
 
 <details>
-  <summary>Easily integratable with new components, workflows</summary>
+  <summary>Easily integratable with new components and workflows</summary>
   <ul>
     <li>Mature system for integrating new functionality as a component and behavior that can be extended with plugins.</li>
   </ul>
