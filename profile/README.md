@@ -207,11 +207,13 @@ You can find other solution files in this folder containing different set of pro
 
 Many of the solution files wouldn't work because many repositories are not present in this simplified set of repositories. 
 
-If you browse the repository you just cloned above - https://github.com/ca2/windows-simple-solution - you going to notice it is a link to other repositories in three or more levels.
+If you browse the repository you just cloned above - https://github.com/ca2/windows-simple-solution - you going to notice it consists of few files - mostly configuration and project files - and links to other sub-repositories in three or more levels until it reach link sub-repositories that actually contains source code.
 
-There are set of repositories with more or less sub-repositories.
+There are other set of repositories structured with this expected layout containing more or less sub-repositories than this "**windows-simple-solution**" repository.
 
 You can create your own repository with the proper layout including ca2 sub-repositories and your own private or public repositories to work in some project of your own.
+
+Other repositories can share the same "storage-windows" repository (put in operating-system folder in first step above), as long as they have same layout and are in same level as the "**simple**" folder.
 
 <!-- Contact -->
 ## Contact
