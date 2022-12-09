@@ -6,6 +6,8 @@
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/android.png" alt="android" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ios.png" alt="ios" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/fedora.png" alt="fedora" />
+  <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/freebsd.png" alt="fedora" />
+  <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/raspberry_pi.png" alt="fedora" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ubuntu.png" alt="ubuntu" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/macos.png" alt="macos" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />
