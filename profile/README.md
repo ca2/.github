@@ -61,7 +61,7 @@
 # Features
 
 <details>
-  <summary>Easy to create new components and workflows</summary>
+  <summary>Easily integratable with new components, workflows</summary>
   <ul>
     <li>Mature system for integrating new functionality as a component and behavior that can be extended with plugins.</li>
   </ul>
@@ -70,7 +70,14 @@
 <details>
   <summary>Easily extensible through plugins</summary>
   <ul>
-    <li>Mature system for integrating plugins into new components and workflows</li>
+    <li>Mature system for integrating plugins into new components and workflows.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cooperative with other C++ frameworks and with C eco-system</summary>
+  <ul>
+    <li>ca2 seeks to work together with other C++ frameworks and user C libraries.</li>
   </ul>
 </details>
 
