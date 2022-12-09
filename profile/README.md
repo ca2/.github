@@ -196,6 +196,14 @@ git clone https://github.com/ca2/storage-windows $HOME/operating-system/storage-
 git clone https://github.com/ca2/windows-simple-solution $HOME/simple --recurse-submodules
 ```
 
+### Please Open:
+
+```bash
+start $HOME/simple/operating-system/operating-system-windows/_seed/simple.sln
+```
+It will open the simple.sln from operating-system-window/_seed folder at Visual Studio.
+
+
 <!-- Contact -->
 ## Contact
 
