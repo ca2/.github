@@ -201,7 +201,7 @@ git clone https://github.com/ca2/windows-simple-solution $HOME/simple --recurse-
 ```bash
 start $HOME/simple/operating-system/operating-system-windows/_seed/simple.sln
 ```
-It will open the simple.sln from operating-system-window/_seed folder at Visual Studio.
+It will open "**simple.sln**" from folder "**operating-system-window/_seed**" at **Visual Studio**.
 
 
 <!-- Contact -->
