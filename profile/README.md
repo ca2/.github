@@ -59,6 +59,18 @@
 
 <!-- Table of Contents -->
 # Features
+<details>
+  <summary>Easy to create new components and workflows</summary>
+  <ul>
+    <li>Mature system for integrating new functionality as a component and behavior that can be extended with plugins.</li>
+  </ul>
+<details>
+<details>
+  <summary>Easily extensible through plugins</summary>
+  <ul>
+    <li>Mature system for integrating plugins into new components and workflows</li>
+  </ul>
+<details>
 
 <details>
   <summary>User Interface (UI)</summary>
