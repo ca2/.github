@@ -159,7 +159,7 @@
 </details>
 
 <details>
-  <summary>Audio Playback</summary>
+  <summary>Audio & Multimedia Playback</summary>
   <ul>
     <li>A library for playing back audio, including support for various playback modes, volume control, and audio effects.</li>
   </ul>
