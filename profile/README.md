@@ -207,7 +207,7 @@ You can find other solution files in this folder containing different set of pro
 
 Many of the solution files wouldn't work because many repositories are not present in this simplified set of repositories. 
 
-If you browse the repository you just cloned above - https://github.com/ca2/storage-windows - you going to notice it is a link to other repositories in three or more levels.
+If you browse the repository you just cloned above - https://github.com/ca2/windows-simple-solution - you going to notice it is a link to other repositories in three or more levels.
 
 There are set of repositories with more or less sub-repositories.
 
