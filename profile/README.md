@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>Application Code</h1>
-  <h2>with single codebase based on</h2>
-  <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
+  <h1>Application Code<br>
+  with single codebase based on<br>
+    <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
-  <h1 style="border:none;">ca2 Framework<br> 
-  other frameworks
+    ca2 Framework<br> 
+    and it works unchanged in<br>
+    other frameworks
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/android.png" alt="android" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ios.png" alt="ios" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/fedora.png" alt="fedora" />
