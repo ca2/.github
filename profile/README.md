@@ -225,9 +225,10 @@ mkdir $HOME/operating-system
 ```
 
 ### Clone the project
-
+Extract contents of storage-windows.zip to $HOME/operating-system/storage-windows
 ```bash
-git clone https://github.com/ca2/storage-windows $HOME/operating-system/storage-windows --recurse-submodules
+wget https://ca2.software/download/storage-windows.zip
+unzip storage-windows.zip $HOME/operating-system/storage-windows
 ```
 
 ```bash
