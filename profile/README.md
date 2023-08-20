@@ -266,7 +266,7 @@ Other repositories can share the same "storage-windows" repository (put in opera
 mkdir -p $HOME/cmake/operating_system
 ```
 
-### Clone the project
+### Set up build environment
 Clone tool-linux at cmake/operating_system folder
 ```bash
 git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool-linux
@@ -275,6 +275,13 @@ cd $HOME/cmake/operating_system/tool_linux/bin
 ```
 ./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to fair suggestions).
 
+Reopen terminal to load extended PATH environment variable.
+
+```bash
+ubuntudeps
+```
+
+### Clone the project
 ```bash
 git clone https://github.com/ca2/linux-simple-cmake $HOME/cmake/simple --recurse-submodules
 ```
