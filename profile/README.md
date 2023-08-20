@@ -291,21 +291,6 @@ git clone https://github.com/ca2/linux-simple-cmake $HOME/cmake/simple --recurse
 ```bash
 clion $HOME/cmake/simple/CMakeLists.txt
 ```
-It will open the "**simple.sln**" from folder "**operating-system-window/_seed**" at **Visual Studio**.
-
-You can find other solution files in this folder containing different set of projects.
-
-Many of the solution files wouldn't work because many repositories are not present in this simplified set of repositories. 
-
-If you browse the repository you just cloned above - https://github.com/ca2/windows-simple-solution - you going to notice it consists of few files - mostly configuration and project files - and links to other sub-repositories in three or more levels until it reach linked sub-repositories that actually contains source code.
-
-Actually a sub-repository is a link to a full repository present somewhere in some place, not necessarily GitHub.
-
-There are other set of repositories structured with this expected layout containing more or less sub-repositories than this "**windows-simple-solution**" repository.
-
-You can create your own repository with the proper layout including ca2 sub-repositories and your own private or public repositories to work in some project of your own.
-
-Other repositories can share the same "storage-windows" repository (put in operating-system folder in first step above), as long as they have same layout and are in same level as the "**simple**" folder.
 
 <!-- Contact -->
 ## Contact
