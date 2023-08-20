@@ -273,7 +273,7 @@ git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool-li
 cd $HOME/cmake/operating_system/tool_linux/bin
 ./patch_shell
 ```
-./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to fair suggestions).
+./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to suggestions).
 
 Reopen terminal to load extended PATH environment variable.
 
