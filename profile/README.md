@@ -236,8 +236,14 @@ Extract contents of storage-windows.zip to $HOME/operating-system/storage-window
 ### Create directory
 
 Download https://windows.ca2.store/application_build_helper.exe
-Put it in a directory. Strongly suggested for ca2 build enviroment C:\operating_system\bin
-Put this directory in PATH system environment variable.
+
+Put it in a directory.
+
+Strongly suggested path for ca2 build enviroment:
+
+C:\operating_system\bin\application_build_helper.exe
+
+Then put directory *C:\operating_system\bin* in PATH system environment variable.
 
 ```bash
 mkdir -p C:/operating_system/bin
