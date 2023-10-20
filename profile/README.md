@@ -228,7 +228,7 @@ mkdir $HOME/operating-system
 
 Currently, "storage-windows" cannot be downloaded easily from the current server (storage-windows.zip).
 
-storage-windows.zip contains "port" projects pre-build binaries and openssl and ffmpeg pre-built binaries.
+storage-windows.zip contains "port" projects pre-built binaries and openssl and ffmpeg pre-built binaries.
 
 You can build "port" projects by checking out https://github.com/ca2/windows-simple-solution and building the solution file ./solution-windows/port.sln .
 
