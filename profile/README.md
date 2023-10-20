@@ -232,6 +232,17 @@ storage-windows.zip contains "port" projects pre-build binaries and openssl and 
 You can build "port" projects by checking out https://github.com/ca2/windows-simple-solution and building the solution file ./solution-windows/port.sln .
 
 Extract contents of storage-windows.zip to $HOME/operating-system/storage-windows
+
+### Create directory
+
+```bash
+mkdir -p C:/operating_system/bin
+```
+
+```bash
+wget https://window.ca2.store/application_build_helper /c/operating_system/bin/application_build_helper
+```
+
 ```bash
 wget https://ca2.software/download/storage-windows.zip
 unzip storage-windows.zip $HOME/operating-system/storage-windows
