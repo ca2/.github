@@ -232,6 +232,8 @@ storage-windows.zip contains "port" projects pre-built binaries and openssl and 
 
 You can build "port" projects by checking out https://github.com/ca2/windows-simple-solution and building the solution file ./solution-windows/port.sln .
 
+Instruction to checkout https://github.com/ca2/windows-simple-solution are given below.
+
 openssl and ffmpeg are available to be downloaded from the links below as needed. Generally just the x64 is needed.
 
 https://windows.ca2.store/storage-windows-x64.zip
