@@ -225,6 +225,12 @@ mkdir $HOME/operating-system
 ```
 
 ### Clone the project
+Currently "storage-windows.zip" cannot be downloaded easily from the current server.
+
+storage-windows.zip contains "port" projects pre-build binaries and openssl and ffmpeg pre-built binaries.
+
+You can build "port" projects by checking out https://github.com/ca2/windows-simple-solution and building the solution file ./solution-windows/port.sln .
+
 Extract contents of storage-windows.zip to $HOME/operating-system/storage-windows
 ```bash
 wget https://ca2.software/download/storage-windows.zip
