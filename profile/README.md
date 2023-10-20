@@ -217,6 +217,16 @@ git lfs install
 <!-- Installation -->
 ## Installation for Windows
 
+### tool-linux - Scripts and tools to help developing with ca2
+
+```bash
+mkdir -p /c/operating_system
+git clone https://github.com/ca2/tool-windows /c/operating_system/tool-windows --recurse-submodules
+```
+
+Then add to the PATH system environment variable the following path
+
+C:\operating_system\tool-windows\bin
 
 ### Create directory
 
