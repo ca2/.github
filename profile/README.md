@@ -240,7 +240,7 @@ mkdir -p C:/operating_system/bin
 ```
 
 ```bash
-wget https://window.ca2.store/application_build_helper.exe -O /c/operating_system/bin/application_build_helper.exe
+wget https://windows.ca2.store/application_build_helper.exe -O /c/operating_system/bin/application_build_helper.exe
 ```
 
 ```bash
