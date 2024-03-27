@@ -20,7 +20,7 @@
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />
   C C++  libraries
     <br>🌌🌍The future is here!!<br>&nbsp;</h1>
-  <h2>https://ca2.software/</h2>
+  <h2>https://ca2software.com/</h2>
   <h2>ca2 is an all-purpose multi-platform framework and set of libraries written in<br>C++ language to help developers create awesome apps for users.</h2>
   <p>
     ca2 is a powerful, all-purpose, cross-platform C++ framework and library suite that enables developers to build exceptional user experiences by harnessing the full potential of the C++ language. Its flexible architecture and abstractions facilitate the rapid development and deployment of complex, performance-critical applications, empowering developers to focus on creating exceptional user experiences rather than dealing with the underlying intricacies of the C++ language and target platform. Additionally, ca2's innovative design ensures that your applications will be able to evolve and adapt as technology advances, future-proofing your investment in the development process.
@@ -54,7 +54,7 @@
 <h4>
     <a href="https://github.com/ca2/app">View Demo</a>
   <span> · </span>
-    <a href="https://ca2.software/documentation/">Documentation</a>
+    <a href="https://ca2software.com/documentation/">Documentation</a>
   <span> · </span>
     <a href="https://github.com/ca2/app/issues/">Report Bug</a>
   <span> · </span>
@@ -370,7 +370,7 @@ clion $HOME/cmake/simple/CMakeLists.txt
 <details>
   <summary>Website</summary>
   <ul>
-    <li>https://ca2.software/</li>
+    <li>https://ca2software.com/</li>
   </ul>
 </details>
 
