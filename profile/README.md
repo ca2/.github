@@ -212,10 +212,7 @@ It is recommended that you add the following environment variables to your .env 
          />
   </a>
   
-  ### Install Git LFS plugin
-```bash
-git lfs install
-```
+
 
 <!-- Installation -->
 ## Installation for Windows
