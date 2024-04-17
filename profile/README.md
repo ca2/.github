@@ -278,11 +278,11 @@ You can build "port" projects by checking out https://github.com/ca2/windows-sim
 
 We now need to install these dependencies, *below* are links to each. We recommend you download `storage-windows-x64.zip`. This is what I use most. These are needed for building in `x64`.
 
-1. [All Binaries](https://windows.ca2.store/storage-windows.zip)
-2. [x64 Binaries](https://windows.ca2.store/storage-windows-x64.zip) (**RECOMMENDED**) But Only x64
-3. [x64 Static Binaries](https://windows.ca2.store/storage-windows-x64-static.zip)
-4. [x32 Binaries](https://windows.ca2.store/storage-windows-Win32.zip)
-5. [x32 Static Binaries](https://windows.ca2.store/storage-windows-Win32-static.zip)
+1. [x64 Binaries](https://windows.ca2.store/storage-windows-x64.zip) (**RECOMMENDED**) But Only x64
+2. [x64 Static Binaries](https://windows.ca2.store/storage-windows-x64-static.zip)
+3. [x32 Binaries](https://windows.ca2.store/storage-windows-Win32.zip)
+4. [x32 Static Binaries](https://windows.ca2.store/storage-windows-Win32-static.zip)
+5. [All Binaries](https://windows.ca2.store/storage-windows.zip)
 
 ### What to do with `storage-windows-*.zip`
 This is where the directory we created under `C:\Users\YourUserName\operating_system` come in.
