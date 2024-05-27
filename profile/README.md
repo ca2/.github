@@ -359,6 +359,12 @@ git clone https://github.com/ca2/linux-simple-cmake $HOME/cmake/simple --recurse
 clion $HOME/cmake/simple/CMakeLists.txt
 ```
 
+<!-- Installation -->
+## Installation for Linux
+
+To be written... You can chat with me at https://twitch.tv/ca2software
+
+
 <!-- Contact -->
 ## Contact
 
