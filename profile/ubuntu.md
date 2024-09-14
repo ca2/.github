@@ -45,12 +45,21 @@ wget https://kubuntu.ca2.store/24.04/application_build_helper
 ### Run prepare_applications
 ```bash
 cd $HOME/cmake/simple
+checkout
 prepare_applications
 ```
 
 
-### Finally open a solution
+### Finally open a solution or Run CMake
 
 ```bash
+# CLion
 clion $HOME/cmake/simple/CMakeLists.txt
+# CMake
+cd $HOME/cmake/simple
+mkdir cmake-build-debug
+cd cmake-build-debug
+cmake -S .. -B . -G Ninja
+# for PC with 8 cores -j 6
+ninja -j 6 _app_simple_drawing
 ```
