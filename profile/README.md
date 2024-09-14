@@ -345,7 +345,10 @@ cd $HOME/cmake/operating_system/tool_linux/bin
 Reopen terminal to load extended PATH environment variable.
 
 ```bash
+# For Ubuntu
 ubuntudeps
+# For Kubuntu
+kubuntudeps
 ```
 
 ### Clone the project
