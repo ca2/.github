@@ -353,6 +353,24 @@ ubuntudeps
 git clone https://github.com/ca2/linux-simple-cmake $HOME/cmake/simple --recurse-submodules
 ```
 
+### Install application_build_helper
+```bash
+cd
+mkdir bin
+cd bin
+# For Ubuntu
+wget https://ubuntu.ca2.store/24.04/application_build_helper
+# For Kubuntu
+wget https://kubuntu.ca2.store/24.04/application_build_helper
+```
+
+### Run prepare_applications
+```bash
+cd $HOME/cmake/simple
+prepare_applications
+```
+
+
 ### Finally open a solution
 
 ```bash
