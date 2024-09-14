@@ -218,7 +218,7 @@ It is recommended that you add the following environment variables to your .env 
 ## [Installation for Windows](windows.md)
 
 <!-- Installation -->
-## Installation for Ubuntu (Unity/GNOME)[ubuntu.md]
+## [Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)](ubuntu.md)
 
 <!-- Installation -->
 ## Installation for Linux
