@@ -55,6 +55,9 @@ prepare_applications
 ```bash
 # CLion
 clion $HOME/cmake/simple/CMakeLists.txt
+```
+
+```bash
 # CMake
 cd $HOME/cmake/simple
 mkdir cmake-build-debug
@@ -62,4 +65,6 @@ cd cmake-build-debug
 cmake -S .. -B . -G Ninja
 # for PC with 8 cores -j 6
 ninja -j 6 _app_simple_drawing
+# to run _app_simple_drawing
+output/_app_simple_drawing
 ```
