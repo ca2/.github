@@ -11,22 +11,23 @@ You will need [git](https://git-scm.com/) to be able to follow along.
 
 ### Installation Location
 You can install the dependencies anywhere, but they must be added to the systems `PATH` environment variable.
-The following example will show you how to install them in the `C:\CA2FrameworkDependencies` folder.
+The following example will show you how to install them in the `C:\operating_system` folder.
 
 ### Create the directory for the Dependencies
 ```bash
-cd C:\
-mkdir CA2FrameworkDependencies
-cd CA2FrameworkDependencies
+C:
+cd \
+mkdir operating_system
+cd operating_system
 mkdir tool-windows
 ```
 ### Downloading the dependencies
 They are located inside [this](https://github.com/ca2/tool-windows) repository. They are things generally required for the build system or the application itself.
 ```bash
-git clone https://github.com/ca2/tool-windows C:\CA2FrameworkDependencies\tool-windows --recurse-submodules
+git clone https://github.com/ca2/tool-windows C:\operating_system\tool-windows --recurse-submodules
 ```
 ### Adding them to the `PATH` environment variable
-There should be a directory under `C:\CA2FrameworkDependencies\tool-windows` called `bin`. You should add this to your systems environment variables. 
+There should be a directory under `C:\operating_system\tool-windows` called `bin`. You should add this to your systems environment variables. 
 
 #### How to add to `PATH`
 1. Press the windows key so you can search
@@ -39,12 +40,12 @@ There should be a directory under `C:\CA2FrameworkDependencies\tool-windows` cal
 
 ### The build helper tool
 You can download the build helper tool from [here](https://windows.ca2.store/application_build_helper.exe)
-After downloading this file, move it to the path `C:\CA2FrameworkDependencies\tool-windows\bin`. It lives here because we already set this path in the systems `PATH`, so it makes life easier.
+After downloading this file, move it to the path `C:\operating_system\tool-windows\bin`. It lives here because we already set this path in the systems `PATH`, so it makes life easier.
 
 #### If you're using WSL, here is a bash script to do this automatically
 
 ```bash
-wget https://windows.ca2.store/application_build_helper.exe -O /mnt/c/CA2FrameworkDependencies/tool-windows/bin
+wget https://windows.ca2.store/application_build_helper.exe -O /mnt/c/operating_system/tool-windows/bin
 ```
 
 ### Other dependencies
