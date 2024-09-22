@@ -2,7 +2,7 @@
 
 ### code.exe
 
-[https://windows.ca2.store/code.exe]([https://git-scm.com/](https://windows.ca2.store/code.exe) will do all following steps.
+[https://windows.ca2.store/code.exe](https://git-scm.com/](https://windows.ca2.store/code.exe) will do all following steps.
 
 ### Dependencies
 
