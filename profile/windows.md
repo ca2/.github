@@ -1,5 +1,9 @@
 ## Installation for Windows
 
+### code.exe
+
+[https://windows.ca2.store/code.exe]([https://git-scm.com/](https://windows.ca2.store/code.exe) will do all following steps.
+
 ### Dependencies
 
 This framework requires a couple dependencies to build, this section will go through how to install them.
