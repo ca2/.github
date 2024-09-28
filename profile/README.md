@@ -2,7 +2,7 @@
 
 
 <div align="left">
-  <h1>Application Code with single codebase<br>
+  <h1>Application Code with single source<br>
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
     based on ca2 Framework<br> 
