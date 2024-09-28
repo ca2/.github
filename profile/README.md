@@ -64,47 +64,15 @@
 
 <br />
 
-
-<!-- Getting Started -->
-# Getting Started
-
-<!-- Env Variables -->
-## Environment Variables
-
-It is recommended that you add the following environment variables to your .env file
-
-`%UserProfile%/simple/operating-system/tool-windows/bin`
-
-<!-- Prerequisites -->
-## Prerequisites
-
-### Install either Git client
-<a href="https://git-scm.com/">
-    <img src="https://git-scm.com/images/logo@2x.png" alt="Git" 
-     width="100" 
-     height="50"
-         />
-  </a>
-  
-  <br>
-  <br>
- 
-<a href="https://www.syntevo.com/smartgit/">
-    <img src="https://www.syntevo.com/assets/images/logos/smartgit-8c1aa1e2.svg" alt="Smart Git" 
-     width="100" 
-     height="100"
-         />
-  </a>
-  
-
-
 <!-- Installation -->
 ## Installation for Windows
 Download and run https://windows.ca2.store/code.exe.
 Alternatively, you can follow steps described [here](windows.md).
 
 <!-- Installation -->
-## [Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)](ubuntu.md)
+## Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)
+Download and run https://linux.ca2.store/code
+Alternatively, you can follow steps described [here](ubuntu.md).
 
 <!-- Installation -->
 ## Installation for Linux
