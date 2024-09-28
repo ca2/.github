@@ -28,7 +28,7 @@ git clone https://github.com/ca2/tool-windows C:\operating_system\tool-windows -
 9. Done!
 
 ### application_build_helper
-Save [https://windows.ca2.store/application_build_helper.exe](https://windows.ca2.store/application_build_helper.exe) to `C:\operating_system\bin\application_build_helper.exe`.
+Download [https://windows.ca2.store/application_build_helper.exe](https://windows.ca2.store/application_build_helper.exe) to `C:\operating_system\bin\application_build_helper.exe`.
 This path is accessible from systems `PATH`, making life easier.
 ```bash
 wget https://windows.ca2.store/application_build_helper.exe -O /c/operating_system/bin
