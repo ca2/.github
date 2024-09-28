@@ -67,12 +67,14 @@
 ## Installation for Windows
 https://windows.ca2.store/code.exe
 
-[Or follow these instructions](windows.md)
-
 ## Installation for Linux
 https://linux.ca2.store/code
 
-[Or follow these instructions](ubuntu.md)
+## For details about the installation
+Details about installation process performed by the code executable:
+- [Windows](windows.md)
+- [Ubuntu](ubuntu.md)
+
 
 # Features
 <details>
