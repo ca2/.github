@@ -215,7 +215,9 @@ It is recommended that you add the following environment variables to your .env 
 
 
 <!-- Installation -->
-## [Installation for Windows](windows.md)
+## Installation for Windows
+Download and run https://windows.ca2.store/code.exe.
+Alternatively, you can follow steps described [here](windows.md).
 
 <!-- Installation -->
 ## [Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)](ubuntu.md)
