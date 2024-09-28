@@ -74,8 +74,6 @@ https://linux.ca2.store/code
 
 [Or follow these instructions](ubuntu.md)
 
-You can find me at https://twitch.tv/ca2software
-
 # Features
 <details>
   <summary>Easily integratable with new components and workflows</summary>
