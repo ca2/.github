@@ -65,125 +65,6 @@
 <br />
 
 
-<!-- Table of Contents -->
-<details>
-<summary># Features</summary>
-<ul>
-  <details>
-    <summary>Easily integratable with new components and workflows</summary>
-    <ul>
-      <li>Mature system for integrating new functionality as a component and behavior that can be extended with plugins.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Easily extensible through plugins</summary>
-    <ul>
-      <li>Mature system for integrating plugins into new components and workflows.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Cooperative with other C++ frameworks and with the C eco-system</summary>
-    <ul>
-      <li>ca2 seeks to work together with other C++ frameworks and route functionality of C libraries to plugins and components.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>User Interface (UI)</summary>
-    <ul>
-      <li>A set of tools and abstractions for building graphical user interfaces, including support for various UI elements, layout, and style.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Graphics</summary>
-    <ul>
-      <li>A library for rendering 2D and 3D graphics, including support for various image and vector formats, as well as hardware acceleration and GPU-based rendering.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>GDI+ and Direct2D for Windows</summary>
-    <ul>
-      <li>Platform-specific libraries for rendering graphics on Windows, providing high-performance, hardware-accelerated rendering on Windows devices.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Quartz2D for macOS and iOS</summary>
-    <ul>
-      <li>Platform-specific libraries for rendering graphics on macOS and iOS, providing high-quality, hardware-accelerated rendering on Apple devices.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Cairo for any other</summary>
-    <ul>
-      <li>A cross-platform library for rendering vector graphics, providing support for a wide range of output devices and display technologies.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Image Loading/Saving</summary>
-    <ul>
-      <li>A library for loading and saving various image formats, including support for common image file formats, such as JPEG, PNG, and TIFF.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Theming</summary>
-    <ul>
-      <li>A set of tools and abstractions for customizing the look and feel of the UI, including support for custom colors, fonts, and styles.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Parallelization & Synchronization</summary>
-    <ul>
-      <li>A library for concurrent programming and synchronization, including support for parallel execution, thread-safe data structures, and concurrent access to shared resources.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Apex Message Queue</summary>
-    <ul>
-      <li>A high-performance message queue for passing messages and data between different parts of the application, allowing for efficient communication and coordination between concurrent tasks.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Networking</summary>
-    <ul>
-      <li>A library for networking and communication, including support for public and local webservers, websockets, and sockets, as well as various protocols and APIs for network communication.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Audio Decoding</summary>
-    <ul>
-      <li>A library for decoding audio files and streams, including support for a wide range of audio formats and codecs.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>Audio & Multimedia Playback</summary>
-    <ul>
-      <li>A library for playing back audio, including support for various playback modes, volume control, and audio effects.</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary>MIDI Playback</summary>
-    <ul>
-      <li>A library for playing back MIDI files and streams, including support for various MIDI file formats and soundfonts.</li>
-    </ul>
-  </details>
-  </ul>
-</details>
-
-
 <!-- Getting Started -->
 # Getting Started
 
@@ -229,6 +110,119 @@ Alternatively, you can follow steps described [here](windows.md).
 ## Installation for Linux
 
 To be written... You can chat with me at https://twitch.tv/ca2software
+
+# Features
+<details>
+  <summary>Easily integratable with new components and workflows</summary>
+  <ul>
+    <li>Mature system for integrating new functionality as a component and behavior that can be extended with plugins.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Easily extensible through plugins</summary>
+  <ul>
+    <li>Mature system for integrating plugins into new components and workflows.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cooperative with other C++ frameworks and with the C eco-system</summary>
+  <ul>
+    <li>ca2 seeks to work together with other C++ frameworks and route functionality of C libraries to plugins and components.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>User Interface (UI)</summary>
+  <ul>
+    <li>A set of tools and abstractions for building graphical user interfaces, including support for various UI elements, layout, and style.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Graphics</summary>
+  <ul>
+    <li>A library for rendering 2D and 3D graphics, including support for various image and vector formats, as well as hardware acceleration and GPU-based rendering.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>GDI+ and Direct2D for Windows</summary>
+  <ul>
+    <li>Platform-specific libraries for rendering graphics on Windows, providing high-performance, hardware-accelerated rendering on Windows devices.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Quartz2D for macOS and iOS</summary>
+  <ul>
+    <li>Platform-specific libraries for rendering graphics on macOS and iOS, providing high-quality, hardware-accelerated rendering on Apple devices.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Cairo for any other</summary>
+  <ul>
+    <li>A cross-platform library for rendering vector graphics, providing support for a wide range of output devices and display technologies.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Image Loading/Saving</summary>
+  <ul>
+    <li>A library for loading and saving various image formats, including support for common image file formats, such as JPEG, PNG, and TIFF.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Theming</summary>
+  <ul>
+    <li>A set of tools and abstractions for customizing the look and feel of the UI, including support for custom colors, fonts, and styles.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Parallelization & Synchronization</summary>
+  <ul>
+    <li>A library for concurrent programming and synchronization, including support for parallel execution, thread-safe data structures, and concurrent access to shared resources.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Apex Message Queue</summary>
+  <ul>
+    <li>A high-performance message queue for passing messages and data between different parts of the application, allowing for efficient communication and coordination between concurrent tasks.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Networking</summary>
+  <ul>
+    <li>A library for networking and communication, including support for public and local webservers, websockets, and sockets, as well as various protocols and APIs for network communication.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Audio Decoding</summary>
+  <ul>
+    <li>A library for decoding audio files and streams, including support for a wide range of audio formats and codecs.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Audio & Multimedia Playback</summary>
+  <ul>
+    <li>A library for playing back audio, including support for various playback modes, volume control, and audio effects.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>MIDI Playback</summary>
+  <ul>
+    <li>A library for playing back MIDI files and streams, including support for various MIDI file formats and soundfonts.</li>
+  </ul>
+</details>
 
 
 <!-- Contact -->
