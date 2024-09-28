@@ -53,7 +53,7 @@ git clone https://github.com/ca2/windows-simple-solution /c/simple --recurse-sub
 
 ### Revert C:\simple\port\include deletion using Tortoise Git by right clicking at C:\simple\port
 
-Open `C:\simple\solution-windows\simple.sln` project you can now build and run CA2 framework!
+Open `C:\simple\solution-windows\simple.sln` project you can now build and run ca2 simple solution.
 
 
 
