@@ -67,11 +67,13 @@
 <!-- Installation -->
 ## Installation for Windows
 You can follow steps described [here](windows.md).
+
 Alternatively, you can download and run https://windows.ca2.store/code.exe .
 
 <!-- Installation -->
 ## Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)
 You can follow steps described [here](ubuntu.md).
+
 Alternatively, you can download and run https://linux.ca2.store/code .
 
 <!-- Installation -->
