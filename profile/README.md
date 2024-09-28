@@ -2,13 +2,11 @@
 
 
 <div align="left">
-  <h1>Application Code<br>
-  with single codebase based on<br>
+  <h1>🌌🌍 Application Code with single codebase<br>
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
-    ca2 Framework<br> 
-    and it works unchanged in<br>
-    other frameworks
+    using ca2 Framework<br> 
+    works at<br>
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/android.png" alt="android" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ios.png" alt="ios" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/fedora.png" alt="fedora" />
@@ -18,10 +16,8 @@
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/macos.png" alt="macos" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/uwp.png" alt="windows" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />
-  C C++  libraries
-    <br>🌌🌍The future is here!!<br>&nbsp;</h1>
   <h2>https://ca2.software/</h2>
-  <h2>ca2 is an all-purpose multi-platform framework and set of libraries written in<br>C++ language to help developers create awesome apps for users.</h2>
+  <h2>a2 is a powerful !multi-purpose platform upon which creators can grow their awesome applications and systems using C++ language.</h2>
   <p>
     ca2 is a powerful, all-purpose, cross-platform C++ framework and library suite that enables developers to build exceptional user experiences by harnessing the full potential of the C++ language. Its flexible architecture and abstractions facilitate the rapid development and deployment of complex, performance-critical applications, empowering developers to focus on creating exceptional user experiences rather than dealing with the underlying intricacies of the C++ language and target platform. Additionally, ca2's innovative design ensures that your applications will be able to evolve and adapt as technology advances, future-proofing your investment in the development process.
   </p>
