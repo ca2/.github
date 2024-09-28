@@ -4,7 +4,8 @@
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
     based on ca2 Framework<br> 
-    works at<br>
+    works at many operating systems and likely at more operating systems...<br>
+    
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/android.png" alt="android" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ios.png" alt="ios" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/fedora.png" alt="fedora" />
