@@ -6,13 +6,7 @@ Instead of doing steps described below, you can download and run [https://window
 
 ### Unicode UTF-8 for worldwide language support
 In this framework, some variables are named using unicode characters. In order to compile you must set this feature on your windows machine.
-1. Press the windows keys and search `Control Panel`, click the first application.
-2. Once open, select `Clock and Region`
-3. Select `Region`
-4. In the new window, select the `Administrative` tab.
-5. Press `Change system locale`
-6. Check `Beta: use Unicode UTF-8 for worldwide language support`
-7. Done!
+Download and run [https://windows.ca2.store/utf8.reg](https://windows.ca2.store/utf8.reg) and restart machine.
 
 ### tool-windows
 At Git Bash
