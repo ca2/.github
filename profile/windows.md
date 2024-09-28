@@ -2,7 +2,7 @@
 
 ### code.exe
 
-A tool to help you doing steps described below: [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
+Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
 
 ### Dependencies
 
