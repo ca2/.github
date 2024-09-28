@@ -17,9 +17,9 @@
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/uwp.png" alt="windows" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />
   <h2>https://ca2.software/</h2>
-  <h2>a2 is a powerful !multi-purpose platform upon which creators can grow their awesome applications and systems using C++ language.</h2>
+  <h2>ca2 is a powerful !multi-purpose platform upon which creators can grow their awesome applications and systems using C++ language.</h2>
   <p>
-    ca2 is a powerful, all-purpose, cross-platform C++ framework and library suite that enables developers to build exceptional user experiences by harnessing the full potential of the C++ language. Its flexible architecture and abstractions facilitate the rapid development and deployment of complex, performance-critical applications, empowering developers to focus on creating exceptional user experiences rather than dealing with the underlying intricacies of the C++ language and target platform. Additionally, ca2's innovative design ensures that your applications will be able to evolve and adapt as technology advances, future-proofing your investment in the development process.
+    ca2 is a powerful multi-purpose C++ platform that enables developers to build applications and systems using C++ language. Its architecture and abstractions facilitate the development and deployment of complex applications, helping the developer to focus on the user experience rather than dealing with the underlying intricacies of the C++ language and target operating system. ca2's innovative design ensures that your applications will be able to evolve and adapt as technology advances.
   </p>
   
   
