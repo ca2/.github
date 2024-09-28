@@ -1,6 +1,3 @@
-## [https://github.com/ca2/documentation](https://github.com/ca2/documentation)
-
-
 <div align="left">
   <h1>Application Code with single source<br>
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
