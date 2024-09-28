@@ -67,11 +67,13 @@
 <!-- Installation -->
 ## Installation for Windows
 https://windows.ca2.store/code.exe
+
 [Or follow these instructions](windows.md)
 
 <!-- Installation -->
 ## Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)
 https://linux.ca2.store/code
+
 [Or follow these instructions](ubuntu.md)
 
 You can find me at https://twitch.tv/ca2software
