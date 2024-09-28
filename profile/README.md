@@ -6,7 +6,7 @@
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
   &nbsp;<br>
     using ca2 Framework<br> 
-    works at 🌌🌍<br>
+    works at<br>
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/android.png" alt="android" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ios.png" alt="ios" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/fedora.png" alt="fedora" />
@@ -15,7 +15,7 @@
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/ubuntu.png" alt="ubuntu" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/macos.png" alt="macos" />
   <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/uwp.png" alt="windows" />
-  <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />
+  <img src="https://github.com/ca2/.github/blob/main/image/operating-system/48/windows.png" alt="windows" />  🌌🌍
   <h2>https://ca2.software/</h2>
   <h2>ca2 is a powerful !multi-purpose platform upon which creators can grow their awesome applications and systems using C++ language.</h2>
   <p>
