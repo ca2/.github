@@ -64,14 +64,12 @@
 
 <br />
 
-<!-- Installation -->
 ## Installation for Windows
 https://windows.ca2.store/code.exe
 
 [Or follow these instructions](windows.md)
 
-<!-- Installation -->
-## Installation for Ubuntu/Kubuntu (Unity/GNOME and KDE Plasma)
+## Installation for Linux
 https://linux.ca2.store/code
 
 [Or follow these instructions](ubuntu.md)
