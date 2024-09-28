@@ -77,7 +77,7 @@ Alternatively, you can follow steps described [here](ubuntu.md).
 <!-- Installation -->
 ## Installation for Linux
 
-To be written... You can chat with me at https://twitch.tv/ca2software
+To be written... You can find me at https://twitch.tv/ca2software
 
 # Features
 <details>
