@@ -1,7 +1,7 @@
 <!-- Installation -->
 ## Installation for Ubuntu
 
-$${\color{red} Draft}$$
+## $${\color{red}Draft}$$
 
 ### Create directory
 
