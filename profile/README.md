@@ -65,10 +65,14 @@ https://windows.ca2.store/code.exe
 ## Installation for Linux
 https://linux.ca2.store/code
 
+## Installation for macOS
+To be done...
+
 ## For details about the installation
 Details about installation process performed by the code executable:
 - [Windows](windows.md)
 - [Ubuntu](ubuntu.md)
+- [macOS](macos.md)
 
 
 # Features
