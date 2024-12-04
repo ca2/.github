@@ -1,19 +1,19 @@
 <!-- Installation -->
 # $${\color{red}Attention! : Draft}$$
 
-## Installation for Ubuntu
+## Installation for macOS
 
 ### Create directory
 
 ```bash
-mkdir -p $HOME/cmake/operating_system
+mkdir -p $HOME/workspace/operating_system
 ```
 
 ### Set up build environment
-Clone tool-linux at cmake/operating_system folder
+Clone tool-macos at workspace/operating_system folder
 ```bash
-git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool-linux
-cd $HOME/cmake/operating_system/tool_linux/bin
+git clone https://github.com/ca2/tool-macos $HOME/workspace/operating_system/tool-macos
+cd $HOME/workspace/operating_system/tool-macos/bin
 ./patch_shell
 ```
 ./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to suggestions).
