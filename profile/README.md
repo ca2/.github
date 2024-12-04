@@ -66,7 +66,7 @@ https://windows.ca2.store/code.exe
 https://linux.ca2.store/code
 
 ## Installation for macOS
-To be done...
+code.app to be done. Please check manual instructions for macOS below.
 
 ## For details about the installation
 Details about installation process performed by the code executable:
