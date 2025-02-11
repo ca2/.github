@@ -22,13 +22,12 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ### Add C:\Users\<username>\code\operating_system\bin and C:\Users\<username>\code\operating_system\tool\bin to the `PATH` environment variable
 1. Press the windows key so you can search
 2. Type environment variables and click on `Edit the system Environment Variables`
-3. At the bottom of the window, click `Environment Variables...`
-4. In the top list, scroll and search for the `PATH` environment variable. Double click it.
-5. On the right, click `New`
-6. Enter the path `%USERPROFILE%\code\operating_system\bin` then press enter.
-7. Click `New` again.
-8. Enter the path `%USERPROFILE%\code\operating_system\tool\bin` then press enter.
-9. Done!
+3. At the top list, select *Path* list item, then click `Edit...`
+4. On the right, click `New`
+5. Enter the path `%USERPROFILE%\code\operating_system\bin` then press Enter.
+6. Click `New` again.
+7. Enter the path `%USERPROFILE%\code\operating_system\tool\bin` then press Enter.
+8. Done!
 
 ### storage-windows
 Unzip [https://windows.ca2.store/storage-windows.zip](https://windows.ca2.store/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
