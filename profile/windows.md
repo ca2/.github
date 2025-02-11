@@ -11,36 +11,32 @@ Download and run [https://windows.ca2.store/utf8.reg](https://windows.ca2.store/
 ### tool-windows
 At Git Bash
 ```bash
-cd /c/
+cd
+mkdir code
+cd code
 mkdir operating_system
-git clone https://github.com/ca2/tool-windows C:\operating_system\tool-windows --recurse-submodules
+cd operating_system
+git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool --recurse-submodules
 ```
 
-### Add C:\operating_system\tool-windows\bin and C:\operating_system\bin to the `PATH` environment variable
+### Add C:\Users\<username>\code\operating_system\bin and C:\Users\<username>\code\operating_system\tool\bin to the `PATH` environment variable
 1. Press the windows key so you can search
 2. Type environment variables and click on `Edit the system environment variables`
 3. Add the bottom of the window, click `Environment Variables...`
 4. In the top list, scroll and search for the `PATH` environment variable. Double click it.
 5. On the right, click `New`
-6. Enter the path `C:\operating_system\tool-windows\bin` then press enter.
+6. Enter the path `%USERPROFILE%\code\operating_system\bin` then press enter.
 7. Click `New` again.
-8. Enter the path `C:\operating_system\bin` then press enter.
+8. Enter the path `%USERPROFILE%\code\operating_system\tool\bin` then press enter.
 9. Done!
 
-### application_build_helper
-Download [https://windows.ca2.store/application_build_helper.exe](https://windows.ca2.store/application_build_helper.exe) to `C:\operating_system\bin\application_build_helper.exe`.
-This path is accessible from systems `PATH`, making life easier.
-```bash
-wget https://windows.ca2.store/application_build_helper.exe -O /c/operating_system/bin
-```
-
 ### storage-windows
-Unzip [https://windows.ca2.store/storage-windows.zip](https://windows.ca2.store/storage-windows.zip) to `C:\operating_system\storage-windows`.
+Unzip [https://windows.ca2.store/storage-windows.zip](https://windows.ca2.store/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone simple project
 Suggested name of folder is simple.
 ```bash
-git clone https://github.com/ca2/windows-simple-solution /c/simple --recurse-submodules
+git clone https://github.com/ca2/windows-simple-solution $HOME/code/simple --recurse-submodules
 ```
 
 ### Symbolic links will be broken, so...
@@ -49,11 +45,13 @@ git clone https://github.com/ca2/windows-simple-solution /c/simple --recurse-sub
 
 ### Install Tortoise Git
 
-### delete folder C:\simple\port\include
+### delete folder C:\Users\<username>\code\simple\port\include
 
-### Revert C:\simple\port\include deletion using Tortoise Git by right clicking at C:\simple\port
+### Revert C:\simple\port\include deletion using Tortoise Git by right clicking C:\Users\<username>\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
 
-Open `C:\simple\solution-windows\simple.sln` project you can now build and run ca2 simple solution.
+### At Tortoise Git Revert Screen, select everything and then click Revert.
+
+Open `C:\Users\<username>\code\simple\solution-windows\simple.sln` project you can now build and run ca2 simple solution.
 
 
 
