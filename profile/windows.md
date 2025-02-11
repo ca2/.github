@@ -5,7 +5,7 @@
 Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
 
 ### Unicode UTF-8 for worldwide language support
-In this framework, some variables are named using unicode characters. In order to compile you must set this feature on your windows machine.
+In this framework, some variables are named using unicode characters in source code. In order to compile such source code you must set this feature on the windows machine where you are going to setup this ca2 Software Development Environment.
 Download and run [https://windows.ca2.store/utf8.reg](https://windows.ca2.store/utf8.reg) and restart machine.
 
 ### tool-windows
@@ -21,8 +21,8 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 
 ### Add C:\Users\<username>\code\operating_system\bin and C:\Users\<username>\code\operating_system\tool\bin to the `PATH` environment variable
 1. Press the windows key so you can search
-2. Type environment variables and click on `Edit the system environment variables`
-3. Add the bottom of the window, click `Environment Variables...`
+2. Type environment variables and click on `Edit User Environment Variables`
+3. At the bottom of the window, click `Environment Variables...`
 4. In the top list, scroll and search for the `PATH` environment variable. Double click it.
 5. On the right, click `New`
 6. Enter the path `%USERPROFILE%\code\operating_system\bin` then press enter.
