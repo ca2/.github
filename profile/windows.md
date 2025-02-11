@@ -21,7 +21,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 
 ### Add C:\Users\<username>\code\operating_system\bin and C:\Users\<username>\code\operating_system\tool\bin to the `PATH` environment variable
 1. Press the windows key so you can search
-2. Type environment variables and click on `Edit User Environment Variables`
+2. Type environment variables and click on `Edit the system Environment Variables`
 3. At the bottom of the window, click `Environment Variables...`
 4. In the top list, scroll and search for the `PATH` environment variable. Double click it.
 5. On the right, click `New`
