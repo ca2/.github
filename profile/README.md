@@ -68,8 +68,8 @@ https://linux.ca2.store/code
 ## Installation for macOS
 code.app to be done. Please check manual instructions for macOS below.
 
-## For details about the installation
-Details about installation process performed by the code executable:
+## Manual installation
+Details about installation process performed by the code executable that can done manually:
 - [Windows](windows.md)
 - [Ubuntu](ubuntu.md)
 - [macOS](macos.md)
