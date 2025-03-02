@@ -39,7 +39,7 @@ Unzip [https://windows.ca2.store/storage-windows.zip](https://windows.ca2.store/
 ### Clone simple project
 Suggested name of folder is simple.
 ```bash
-git clone https://github.com/ca2/windows-simple-solution $HOME/code/simple --recurse-submodules
+git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-submodules
 ```
 
 ### Symbolic links will be broken, so...
