@@ -28,7 +28,7 @@ kubuntudeps
 
 ### Clone the project
 ```bash
-git clone https://github.com/ca2/linux-simple-cmake $HOME/cmake/simple --recurse-submodules
+git clone https://github.com/ca2/linux-simple $HOME/cmake/simple --recurse-submodules
 ```
 
 ### Install application_build_helper
