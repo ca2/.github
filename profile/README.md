@@ -105,7 +105,7 @@ Details about installation process performed by the code executable that can don
 </details>
 
 <details>
-  <summary>Graphics</summary>
+  <summary>2D Graphics & 3D Graphics with or without GPU Acceleration</summary>
   <ul>
     <li>A library for rendering 2D and 3D graphics, including support for various image and vector formats, as well as hardware acceleration and GPU-based rendering.</li>
   </ul>
