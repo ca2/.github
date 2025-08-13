@@ -12,7 +12,7 @@ mkdir -p $HOME/cmake/operating_system
 Clone tool-linux at cmake/operating_system folder
 ```bash
 git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool
-cd $HOME/cmake/operating_system/tool-linux/bin
+cd $HOME/cmake/operating_system/tool/bin
 ./patch_shell
 ```
 ./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to suggestions).
