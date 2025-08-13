@@ -11,7 +11,7 @@ mkdir -p $HOME/cmake/operating_system
 ### Set up build environment
 Clone tool-linux at cmake/operating_system folder
 ```bash
-git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool-linux
+git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool
 cd $HOME/cmake/operating_system/tool-linux/bin
 ./patch_shell
 ```
