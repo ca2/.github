@@ -21,9 +21,9 @@ Reopen terminal to load extended PATH environment variable.
 
 ```bash
 # For Ubuntu
-ubuntudeps
+ubuntug4deps
 # For Kubuntu
-kubuntudeps
+ubuntuk6deps
 ```
 
 ### Clone the project
