@@ -51,7 +51,7 @@ cd $HOME/cmake/simple
 mkdir cmake-build-debug
 cd cmake-build-debug
 cmake -S .. -B . -G Ninja
-# for PC with 8 cores -j 6
+# for PC with 8 cores using 6 threads is fair enough -j 6
 ninja -j 6 _app_simple_drawing
 # to run _app_simple_drawing
 output/_app_simple_drawing
