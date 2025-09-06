@@ -5,14 +5,14 @@
 ### Create directory
 
 ```bash
-mkdir -p $HOME/cmake/operating_system
+mkdir -p $HOME/code/operating_system
 ```
 
 ### Set up build environment
-Clone tool-linux at cmake/operating_system folder
+Clone tool-linux at code/operating_system folder
 ```bash
-git clone https://github.com/ca2/tool-linux $HOME/cmake/operating_system/tool
-cd $HOME/cmake/operating_system/tool/bin
+git clone https://github.com/ca2/tool-linux $HOME/code/operating_system/tool
+cd $HOME/code/operating_system/tool/bin
 ./patch_shell
 ```
 ./patch_shell changes .bashrc and .profile. Please check and see if it is ok (always open to suggestions).
@@ -29,12 +29,12 @@ ubuntuk6deps
 
 ### Clone the project
 ```bash
-git clone https://github.com/ca2/linux-simple $HOME/cmake/simple --recurse-submodules
+git clone https://github.com/ca2/linux-simple $HOME/code/simple --recurse-submodules
 ```
 
 ### Run prepare_applications
 ```bash
-cd $HOME/cmake/simple
+cd $HOME/code/simple
 checkout
 prepare_applications
 ```
@@ -43,12 +43,12 @@ prepare_applications
 
 ```bash
 # CLion
-clion $HOME/cmake/simple/CMakeLists.txt
+clion $HOME/code/simple/CMakeLists.txt
 ```
 
 ```bash
 # CMake
-cd $HOME/cmake/simple
+cd $HOME/code/simple
 mkdir cmake-build-debug
 cd cmake-build-debug
 cmake -S .. -B . -G Ninja
