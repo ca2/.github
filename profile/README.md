@@ -60,10 +60,10 @@
 <br />
 
 ## Automated Installation for Windows
-(Automated installation is not currently working, please use manual installation instructions below) ~~https://windows.ca2.store/code.exe~~
+(Automated installation is not currently working, please use [manual installation instructions in topic below](#manual-installation).) ~~https://windows.ca2.store/code.exe~~
 
 ## Automated Installation for Linux
-(Automated installation is not currently working, please use manual installation instructions below) ~~https://linux.ca2.store/code~~
+(Automated installation is not currently working, please use [manual installation instructions in topic below](#manual-installation).) ~~https://linux.ca2.store/code~~
 
 ## Installation for macOS
 code.app to be done. Please check manual instructions for macOS below.
