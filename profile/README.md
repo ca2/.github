@@ -59,11 +59,11 @@
 
 <br />
 
-## Installation for Windows
-https://windows.ca2.store/code.exe
+## Automated Installation for Windows
+(Automated installation is not currently working, please use manual installation instructions below) https://windows.ca2.store/code.exe
 
-## Installation for Linux
-https://linux.ca2.store/code
+## Automated Installation for Linux
+(Automated installation is not currently working, please use manual installation instructions below) https://linux.ca2.store/code
 
 ## Installation for macOS
 code.app to be done. Please check manual instructions for macOS below.
