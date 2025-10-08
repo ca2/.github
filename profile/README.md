@@ -49,7 +49,7 @@
 <h4>
     <a href="https://github.com/ca2/app">View Demo</a>
   <span> · </span>
-    <a href="https://ca2software.com/documentation/">Documentation</a>
+    <a href="https://ca2.software/documentation/">Documentation</a>
   <span> · </span>
     <a href="https://github.com/ca2/app/issues/">Report Bug</a>
   <span> · </span>
@@ -197,7 +197,7 @@ Details about installation process performed by the code executable that can don
 <details>
   <summary>Website</summary>
   <ul>
-    <li>https://ca2software.com/</li>
+    <li>https://ca2.software/</li>
   </ul>
 </details>
 
