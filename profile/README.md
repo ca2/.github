@@ -69,7 +69,7 @@
 code.app to be done. Please check manual instructions for macOS below.
 
 ## Manual installation
-Details about installation process performed by the code executable that can done manually:
+Details about installation process that would be performed by the *code* executable that can be done manually:
 - [Windows](windows.md)
 - [Ubuntu](ubuntu.md)
 - [macOS](macos.md)
