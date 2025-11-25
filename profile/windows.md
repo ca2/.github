@@ -38,6 +38,7 @@ Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.net
 
 ### Clone simple project
 Suggested name of folder is simple.
+At Git bash.
 ```bash
 git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-submodules
 ```
