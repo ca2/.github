@@ -76,9 +76,13 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
 
-* Right the project "shared_app_simple_drawing" at "Solution Explorer" and click option "Set as Startup Project"
+### Set "shared_app_simple_drawing" as Startup Project
 
-Now can build and run "simple" solution.
+* Right click the project "shared_app_simple_drawing" at "Solution Explorer" and click option "Set as Startup Project"
+* Click the play button to Run the shared_app_simple_drawing project
+
+It will take some time to build the framework and it will run the application.
+
 
 
 
