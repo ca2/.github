@@ -73,7 +73,7 @@ Details about coding environment setup that would be performed by ca2 *code* exe
 
 Manual steps are described below:
 - [Windows](windows.md)
-- [Ubuntu](ubuntu.md) (can be interpreted to be used on other distros).
+- [Ubuntu](ubuntu.md) (can be adapted to be used on other distros).
 - [macOS](macos.md)
 
 
