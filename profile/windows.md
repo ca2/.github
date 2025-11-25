@@ -78,6 +78,16 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
 5. At Tortoise Git Revert Screen, select everything and then click Revert.
 
+### Update the source
+It is a good practice after cloning to update the source.
+At Git bash.
+
+```bash
+cd   $HOME/code/simple
+checkout
+```
+checkout is a command found in %USERPROFILE%\code\operating_system\tool\bin\checkout
+
 ### Open "simple" solution at Visual Studio
 
 Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
