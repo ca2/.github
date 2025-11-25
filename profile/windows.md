@@ -74,9 +74,12 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 1. Enable Developer Mode for Windows at Developer Settings (If you havent't done so yet).
 2. Install Tortoise Git
-3. Delete folder %USERPROFILE%\code\simple\port\include
-4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
-5. At Tortoise Git Revert Screen, select everything and then click Revert.
+
+[https://tortoisegit.org/](https://tortoisegit.org/)
+
+4. Delete folder %USERPROFILE%\code\simple\port\include
+5. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
+6. At Tortoise Git Revert Screen, select everything and then click Revert.
 
 ### Update the source
 To get the latest sources, you can run the `checkout` command.
@@ -92,7 +95,7 @@ checkout is a command found in %USERPROFILE%\code\operating_system\tool\bin\chec
 
 * Install Visual Studio 2026.
 
-  https://visualstudio.microsoft.com/
+[https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
   
 * Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
 
