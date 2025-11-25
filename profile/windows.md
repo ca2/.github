@@ -32,7 +32,7 @@ This framework uses variables that may have Unicode characters. In order to comp
    
 You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types". One of check boxes of Developer Options in Apply buttons would enable this option).
 
-### Clone helper tools used for building
+### Setup helper tools used for building
 Clone "tool-windows" which contains helper tools for building and maintaining the source.
 
 At Git Bash
