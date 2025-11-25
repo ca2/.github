@@ -2,7 +2,7 @@
 
 ### code.exe (Currently not working)
 
-Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
+~~Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).~~
 
 ### Install Git-SCM
 Download and install the proper version of Git for your windows:
