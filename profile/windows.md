@@ -79,7 +79,7 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 5. At Tortoise Git Revert Screen, select everything and then click Revert.
 
 ### Update the source
-It is a good practice after cloning to update the source.
+To get the latest sources, you can run the `checkout` command.
 At Git bash.
 
 ```bash
