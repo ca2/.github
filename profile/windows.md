@@ -34,7 +34,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 12. Done!
 
 ### storage-windows
-Unzip [https://windows.ca2.store/storage-windows.zip](https://windows.ca2.store/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
+Unzip [https://ca2.software/download/storage/storage-windows.zip](https://ca2.software/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone simple project
 Suggested name of folder is simple.
