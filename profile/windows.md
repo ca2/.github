@@ -25,6 +25,7 @@ This framework uses variables that may have Unicode characters. In order to comp
 2. Right click the file in the browser and save the file as utf8.reg somewhere in PC.
 3. Double click the downloaded utf8.reg file to run it.
 4. Restart machine to apply Settings.
+   
 You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
 
 ### Clone tool-windows
