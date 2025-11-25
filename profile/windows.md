@@ -4,6 +4,18 @@
 
 Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
 
+### Install Git-SCM
+Download and install the proper version of Git for your windows https://git-scm.com/install/windows . It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. Its in the last Options Screen of the Installation Wizard.
+
+### Configure Git symbolic links
+At Git Bash
+```bash
+git config --global core.symlinks true
+```
+
+### Enable Developer Settings at Windows
+Go to Windows Settings > Developer Settings and enable the first toggle button and it is good idea also to click the Apply buttons.
+
 ### Unicode UTF-8 for worldwide language support
 This framework uses variables that may have Unicode characters. In order to compile such source you must set option in Windows that enable proper handling of UTF-8 data.
 1. Access the link [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg)
@@ -49,7 +61,7 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 ### Symbolic links will be broken, so...
 
-1. Enable Developer Mode for Windows at Developer Settings
+1. Enable Developer Mode for Windows at Developer Settings (If you havent't done it yet as instructed above).
 2. Install Tortoise Git
 3. Delete folder %USERPROFILE%\code\simple\port\include
 4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
