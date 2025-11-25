@@ -1,6 +1,6 @@
 ## Installation for Windows
 
-### code.exe
+### code.exe (Currently not working)
 
 Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
 
