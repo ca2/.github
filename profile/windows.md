@@ -94,7 +94,8 @@ checkout is a command found in %USERPROFILE%\code\operating_system\tool\bin\chec
 ### Open "simple" solution at Visual Studio
 
 * Install Visual Studio 2026.
-
+At Visual Studio Installer, select `Desktop Development with C++`
+  
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
   
 * Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
