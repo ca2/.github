@@ -81,8 +81,7 @@ Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
 * Right click the project "shared_app_simple_drawing" at "Solution Explorer" and click option "Set as Startup Project"
 * Click the play button to Run the shared_app_simple_drawing project
 
-It will take some time to build the framework and it will run the application.
-
+It will build the platform and the application and then run it.
 
 
 
