@@ -2,12 +2,13 @@
 
 ### code.exe (Currently not working)
 
-~~Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).~~
+Instead of doing steps described below, you would be able to download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
+Currently it is not working. I need to work on it.
 
 ### Install Git-SCM
 Download and install the proper version of Git for your windows:
-https://git-scm.com/install/windows 
-It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. Its in the last Options Screen of the Installation Wizard.
+* https://git-scm.com/install/windows 
+It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. It is in the last Options Screen of the Installation Wizard.
 
 ### Configure Git symbolic links
 At Git Bash
