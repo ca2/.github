@@ -74,7 +74,7 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 ### Open "simple" solution at Visual Studio
 
-Open `%USERPROFILE%\code\simple\port\include` project.
+Open `%USERPROFILE%\code\simple\soluton-windows\simple.sln` project.
 Now can build and run "simple" solution.
 
 
