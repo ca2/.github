@@ -75,6 +75,9 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 ### Open "simple" solution at Visual Studio
 
 Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
+
+* Select the project "shared_app_simple_drawing" at "Solution Explorer"
+
 Now can build and run "simple" solution.
 
 
