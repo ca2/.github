@@ -69,7 +69,7 @@
 code.app to be done. Please check manual instructions for macOS below.
 
 ## Example *simple* project
-Details about coding environment setup that would be performed by ca2 *code* executable.
+Details about coding environment setup that would be performed by ca2 *code* executable. In these instrutions the *simple* is setup but the setup can be used for any project.
 
 Manual steps are described below:
 - [Windows](windows.md)
