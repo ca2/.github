@@ -12,7 +12,7 @@ This framework uses variables that may have Unicode characters. In order to comp
 4. Restart machine to apply Settings.
 You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
 
-### tool-windows
+### Clone tool-windows
 At Git Bash
 ```bash
 cd
@@ -23,7 +23,7 @@ cd operating_system
 git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool --recurse-submodules
 ```
 
-### Add C:\Users\<username>\code\operating_system\bin and C:\Users\<username>\code\operating_system\tool\bin to the `PATH` environment variable
+### Add %USERPROFILE%\code\operating_system\bin and %USERPROFILE%\code\operating_system\tool\bin to the `PATH` environment variable
 1. Press the windows key so you can search
 2. Type environment variables and click on `Edit the system environment variables` to open `System Properties` dialog.
 3. Click `Environment Variables...` button at bottom of screen to open `Environment Variables` dialog.
