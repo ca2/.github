@@ -66,7 +66,7 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 ### Symbolic links will be broken, so...
 
-1. Enable Developer Mode for Windows at Developer Settings (If you havent't done it yet as instructed above).
+1. Enable Developer Mode for Windows at Developer Settings (If you havent't done so yet).
 2. Install Tortoise Git
 3. Delete folder %USERPROFILE%\code\simple\port\include
 4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
