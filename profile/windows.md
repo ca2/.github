@@ -10,7 +10,8 @@
 Download and install the proper version of Git for your windows:
 * https://git-scm.com/install/windows
   
-It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. It is in the last Options Screen of the Installation Wizard.
+It is important to check the option to "Enable Symbolic Links" when installing Git-SCM.
+It is in the last Options Screen of the Installation Wizard.
 
 ### Configure Git symbolic links
 At Git Bash
