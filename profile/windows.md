@@ -5,7 +5,9 @@
 Instead of doing steps described below, you can download and run [https://windows.ca2.store/code.exe](https://windows.ca2.store/code.exe).
 
 ### Install Git-SCM
-Download and install the proper version of Git for your windows https://git-scm.com/install/windows . It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. Its in the last Options Screen of the Installation Wizard.
+Download and install the proper version of Git for your windows:
+https://git-scm.com/install/windows 
+It is important to check the option to "Enable Symbolic Links" when installing Git-SCM. Its in the last Options Screen of the Installation Wizard.
 
 ### Configure Git symbolic links
 At Git Bash
