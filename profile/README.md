@@ -68,10 +68,12 @@
 ## Installation for macOS
 code.app to be done. Please check manual instructions for macOS below.
 
-## Manual Coding Ambient Setup and Sample Simple Project Launching
-Details about installation process that would be performed by the *code* executable that can be done manually:
+## Example Simple Project
+Details about coding environment setup that would be performed by ca2 *code* executable.
+
+Manual steps are described below:
 - [Windows](windows.md)
-- [Ubuntu](ubuntu.md)
+- [Ubuntu](ubuntu.md) (can be interpreted to be used on other distros).
 - [macOS](macos.md)
 
 
