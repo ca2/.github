@@ -53,7 +53,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 11. Click Ok at `System Properties` dialog.
 12. Done!
 
-### storage-windows
+### Download and uncompress storage-windows
 Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone simple project
