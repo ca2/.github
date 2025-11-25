@@ -6,7 +6,11 @@ Instead of doing steps described below, you can download and run [https://window
 
 ### Unicode UTF-8 for worldwide language support
 In this framework, some variables are named using unicode characters in source code. In order to compile such source code you must set this feature on the windows machine where you are going to setup this ca2 Software Development Environment.
-Download and run [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg) and restart machine. You may need to rename it manually the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
+1. Access the link [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg)
+2. Right click the file in the browser and save the file as utf8.reg somewhere in PC.
+3. Double click the downloaded utf8.reg file to run it.
+4. Restart machine to apply Settings.
+You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
 
 ### tool-windows
 At Git Bash
@@ -45,17 +49,14 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 ### Symbolic links will be broken, so...
 
-### Enable Developer Mode for Windows at Developer Settings
-
-### Install Tortoise Git
-
-### delete folder C:\Users\<username>\code\simple\port\include
-
-### Revert C:\simple\port\include deletion using Tortoise Git by right clicking C:\Users\<username>\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
+1. Enable Developer Mode for Windows at Developer Settings
+2. Install Tortoise Git
+3. Delete folder %USERPROFILE%\code\simple\port\include
+4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
 
 ### At Tortoise Git Revert Screen, select everything and then click Revert.
 
-Open `C:\Users\<username>\code\simple\solution-windows\simple.sln` project you can now build and run ca2 simple solution.
+Open `%USERPROFILE%\code\simple\port\include` project you can now build and run ca2 simple solution.
 
 
 
