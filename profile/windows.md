@@ -6,7 +6,7 @@ Instead of doing steps described below, you can download and run [https://window
 
 ### Unicode UTF-8 for worldwide language support
 In this framework, some variables are named using unicode characters in source code. In order to compile such source code you must set this feature on the windows machine where you are going to setup this ca2 Software Development Environment.
-Download and run [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg) and restart machine. You may need to rename it manually the .txt extension from .reg.txt to .reg (Windows may be setup for hiding known file extensions like .txt, maybe as Windows developer, it is better to, in Windows File Explorer Option, disable to "Hide extension from known file stypes").
+Download and run [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg) and restart machine. You may need to rename it manually the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
 
 ### tool-windows
 At Git Bash
@@ -34,7 +34,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 12. Done!
 
 ### storage-windows
-Unzip [https://ca2.software/download/storage/storage-windows.zip](https://ca2.software/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
+Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone simple project
 Suggested name of folder is simple.
