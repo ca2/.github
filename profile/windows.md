@@ -56,7 +56,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ### Download and uncompress storage-windows
 Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
-### Clone simple project
+### Clone the "simple" project
 Suggested name of folder is simple.
 
 At Git bash.
@@ -70,10 +70,12 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 2. Install Tortoise Git
 3. Delete folder %USERPROFILE%\code\simple\port\include
 4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
+5. At Tortoise Git Revert Screen, select everything and then click Revert.
 
-### At Tortoise Git Revert Screen, select everything and then click Revert.
+### Open the "simple" solution at Visual Studio
 
-Open `%USERPROFILE%\code\simple\port\include` project you can now build and run ca2 simple solution.
+Open `%USERPROFILE%\code\simple\port\include` project.
+Now can build and run "simple" solution.
 
 
 
