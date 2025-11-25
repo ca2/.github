@@ -17,7 +17,7 @@ git config --global core.symlinks true
 ```
 
 ### Enable Developer Settings at Windows
-Go to Windows Settings > Developer Settings and enable the first toggle button and it is good idea also to click the Apply buttons.
+Go to Windows Settings > Developer Settings and enable the first toggle button and it is good idea also to click the Apply buttons (with respective check boxes selected).
 
 ### Unicode UTF-8 for worldwide language support
 This framework uses variables that may have Unicode characters. In order to compile such source you must set option in Windows that enable proper handling of UTF-8 data.
@@ -26,7 +26,7 @@ This framework uses variables that may have Unicode characters. In order to comp
 3. Double click the downloaded utf8.reg file to run it.
 4. Restart machine to apply Settings.
    
-You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types").
+You may need to manually rename the .txt extension from .reg.txt to .reg (Windows File Explorer may be configured to hide known file extensions like .txt. You may at *File Explorer Options* > *View tab*, uncheck the option: "Hide extensions for known file types". One of check boxes of Developer Options in Apply buttons would enable this option).
 
 ### Clone tool-windows
 At Git Bash
