@@ -62,7 +62,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ### Download and uncompress storage-windows
 Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
-### Clone "simple" project
+### Clone "simple" solution: a solution with a couple of "simple" applications
 Suggested name of folder is simple.
 
 At Git bash.
