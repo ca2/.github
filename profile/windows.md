@@ -56,7 +56,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ### Download and uncompress storage-windows
 Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
-### Clone the "simple" project
+### Clone "simple" project
 Suggested name of folder is simple.
 
 At Git bash.
@@ -72,7 +72,7 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
 5. At Tortoise Git Revert Screen, select everything and then click Revert.
 
-### Open the "simple" solution at Visual Studio
+### Open "simple" solution at Visual Studio
 
 Open `%USERPROFILE%\code\simple\port\include` project.
 Now can build and run "simple" solution.
