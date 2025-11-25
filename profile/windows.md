@@ -91,6 +91,9 @@ checkout is a command found in %USERPROFILE%\code\operating_system\tool\bin\chec
 ### Open "simple" solution at Visual Studio
 
 * Install Visual Studio 2026.
+
+  https://visualstudio.microsoft.com/
+  
 * Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
 
 ### Set "shared_app_simple_drawing" as Startup Project
