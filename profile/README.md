@@ -68,7 +68,7 @@
 ## Installation for macOS
 code.app to be done. Please check manual instructions for macOS below.
 
-## Example Simple Project
+## Example *simple* project
 Details about coding environment setup that would be performed by ca2 *code* executable.
 
 Manual steps are described below:
