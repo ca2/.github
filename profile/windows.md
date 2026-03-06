@@ -24,7 +24,7 @@ git config --global core.symlinks true
 Go to Windows Settings > Developer Settings and enable the first toggle button and it is good idea also to click the Apply buttons (with respective check boxes selected).
 
 ### Unicode UTF-8 for worldwide language support
-This framework uses variables that may have Unicode characters. In order to compile such source you must set option in Windows that enable proper handling of UTF-8 data.
+ca2 platform uses variable names that may have Unicode characters in it. In order to compile such source you must set option in Windows that enable proper handling of UTF-8 data.
 1. Access the link [https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg](https://raw.githubusercontent.com/ca2/tool-windows/refs/heads/main/registry/utf8.reg)
 2. Right click the file in the browser and save the file as utf8.reg somewhere in PC.
 3. Double click the downloaded utf8.reg file to run it.
