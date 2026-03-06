@@ -46,6 +46,11 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ```
 
 ### Update PATH environment variable
+We are going to add two paths to the path environment variable:
+
+- `%USERPROFILE%\code\operating_system\bin`
+- `%USERPROFILE%\code\operating_system\tool\bin`
+
 1. Press the windows key so you can search
 2. Type "Environment Variables" and click on `Edit the system environment variables` to open `System Properties` dialog.
 3. Click `Environment Variables...` button at bottom of screen to open `Environment Variables` dialog.
