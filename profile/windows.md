@@ -82,9 +82,9 @@ git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-subm
 
 [https://tortoisegit.org/](https://tortoisegit.org/)
 
-3. Delete folder %USERPROFILE%\code\simple\port\include
-4. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
-5. At Tortoise Git Revert Screen, select everything and then click Revert.
+4. Delete folder %USERPROFILE%\code\simple\port\include
+5. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
+6. At Tortoise Git Revert Screen, select everything and then click Revert.
 
 When reverting using Tortoise Git, symbolic links are created correctly.
 
