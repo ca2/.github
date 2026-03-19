@@ -20,11 +20,7 @@ cd $HOME/code/operating_system/tool/bin
 Reopen terminal to load extended PATH environment variable.
 
 ```bash
-ubuntu_setup
-# For Ubuntu
-ubuntug4deps
-# For Kubuntu
-ubuntuk6deps
+codingsetup
 ```
 
 ### Clone the project
