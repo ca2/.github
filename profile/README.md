@@ -79,7 +79,7 @@ Manual steps are described below:
 Working on this One liner to setup coding ambient at Unix, Unix like and/or Linux system
 
 ```bash
-a="https://ca2.site/1"; command -v curl >/dev/null 2>&1 && curl -fsSL "$a" | sh || (command -v wget >/dev/null 2>&1 && wget -qO- "$a" | sh || echo "Neither curl nor wget is installed.")
+a="https://ca2.site/1"; command -v curl && curl -fsSL "$a" | sh || (command -v wget && wget -qO- "$a" | sh || echo "Neither curl nor wget is installed.")
 ```
 
 # Features
