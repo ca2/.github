@@ -84,10 +84,15 @@ Working on this one-liner to setup coding ambient at Unix, Unix like and/or Linu
 a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
-### Command line one-liner
+### Download coding_setup one-liner
+
+The following one-liner downloads coding_setup executable in current directory and make it executable.
+
+Then you just have to run it.
 
 ```bash
 a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+coding_setup
 ```
 
 
