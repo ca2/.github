@@ -76,11 +76,20 @@ Manual steps are described below:
 - [Ubuntu](ubuntu.md) (can be adapted to be used on other distros).
 - [macOS](macos.md)
 
-Working on this One liner to setup coding ambient at Unix, Unix like and/or Linux system
+Working on this one-liner to setup coding ambient at Unix, Unix like and/or Linux system
+
+### Graphical one-liner
 
 ```bash
 a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
+
+### Command line one-liner
+
+```bash
+a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+```
+
 
 # Features
 <details>
