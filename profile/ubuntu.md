@@ -20,7 +20,7 @@ cd $HOME/code/operating_system/tool/bin
 Reopen terminal to load extended PATH environment variable.
 
 ```bash
-codingsetup
+install_deps
 ```
 
 ### Clone the project
