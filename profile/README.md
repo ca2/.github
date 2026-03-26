@@ -81,7 +81,7 @@ Working on this one-liner to setup coding ambient at Unix, Unix like and/or Linu
 ### Graphical one-liner
 
 ```bash
-a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh -i)||($c -V wget && wget -qO- $a | sh -i)
+a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 ### Download coding_setup one-liner
@@ -89,7 +89,7 @@ a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh -i)||($c -V wge
 The following one-liner downloads coding_setup executable to $HOME/bin/ directory and make it executable.
 
 ```bash
-a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh -i)||($c -V wget && wget -qO- $a | sh -i)
+a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 ```bash
