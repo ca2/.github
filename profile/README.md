@@ -86,16 +86,14 @@ a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget &
 
 ### Download coding_setup one-liner
 
-The following one-liner downloads coding_setup executable in current directory and make it executable.
-
-Then you just have to run it.
+The following one-liner downloads coding_setup executable to $HOME/bin/ directory and make it executable.
 
 ```bash
 a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 ```bash
-coding_setup
+~/bin/coding_setup
 ```
 
 
