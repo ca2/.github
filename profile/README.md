@@ -85,7 +85,7 @@ a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget &
 
 ### Command Line one-liner
 
-Working on this one-liner to setup coding ambient at Unix'es (going to test at macOS), BSD/Unix like (going to test at FreeBSD, NetBSD and OpenBSD) and/or Linux system (going to test in couple of distros/desktop ambient combinations).
+Working on this one-liner to setup coding ambient at Unix (going to test at macOS), BSD/Unix like (going to test at FreeBSD, NetBSD and OpenBSD) and/or Linux system (going to test in couple of distros/desktop ambient combinations).
 
 #### bash>
 ```bash
