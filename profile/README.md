@@ -79,7 +79,7 @@ Manual steps are described below:
 ### Graphical one-liner
 
 ```bash
-a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+bash> a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 ### Command Line one-liner
@@ -87,7 +87,7 @@ a=https://ca2.site/1;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget &
 Working on this one-liner to setup coding ambient at Unix, Unix like and/or Linux system.
 
 ```bash
-a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+bash> a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 # Features
