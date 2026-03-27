@@ -78,8 +78,8 @@ Manual steps are described below:
 
 ### Graphical download
 
-- [https://windows.ca2.store/code_x64.exe](https://windows.ca2.store/code_x64.exe)
-- [https://windows.ca2.store/code_arm64.exe](https://windows.ca2.store/code_arm64.exe)
+- [https://windows.ca2.store/x64/code.exe](https://windows.ca2.store/x64/code.exe)
+- [https://windows.ca2.store/arm64/code.exe](https://windows.ca2.store/arm64/code.exe)
 - [https://macos.ca2.store/code.zip](https://macos.ca2.store/code.zip)
 
 ### Graphical one-liner
