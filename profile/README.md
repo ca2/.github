@@ -76,6 +76,12 @@ Manual steps are described below:
 - [Ubuntu](ubuntu.md) (can be adapted to be used on other distros).
 - [macOS](macos.md)
 
+### Graphical download
+
+- [https://windows.ca2.store/store_x64](https://windows.ca2.store/store_x64)
+- [https://windows.ca2.store/store_arm64](https://windows.ca2.store/store_arm64)
+- [https://macos.ca2.store/store](https://macos.ca2.store/store)
+
 ### Graphical one-liner
 
 #### bash>
