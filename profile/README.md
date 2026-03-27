@@ -92,11 +92,6 @@ The following one-liner downloads coding_setup executable to $HOME/bin/ director
 a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
-```bash
-~/bin/coding_setup
-```
-
-
 # Features
 <details>
   <summary>Easily integratable with new components and workflows</summary>
