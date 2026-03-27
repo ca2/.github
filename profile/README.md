@@ -89,7 +89,7 @@ Working on this one-liner to setup coding ambient at Unix, Unix like and/or Linu
 
 #### at bash
 ```bash
-bash> a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
 # Features
