@@ -78,9 +78,9 @@ Manual steps are described below:
 
 ### Graphical download
 
-- [https://windows.ca2.store/store_x64](https://windows.ca2.store/store_x64)
-- [https://windows.ca2.store/store_arm64](https://windows.ca2.store/store_arm64)
-- [https://macos.ca2.store/store](https://macos.ca2.store/store)
+- [https://windows.ca2.store/code_x64.exe](https://windows.ca2.store/code_x64.exe)
+- [https://windows.ca2.store/code_arm64.exe](https://windows.ca2.store/code_arm64.exe)
+- [https://macos.ca2.store/code.zip](https://macos.ca2.store/code.zip)
 
 ### Graphical one-liner
 
