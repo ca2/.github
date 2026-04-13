@@ -114,7 +114,7 @@ a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget &
 </details>
 
 <details>
-  <summary>Cooperative with other C++ frameworks and with the C eco-system</summary>
+  <summary>Cooperative with other C++ frameworks and with the C/assembly eco-system/stack</summary>
   <ul>
     <li>ca2 seeks to work together with other C++ frameworks and route functionality of C libraries to plugins and components.</li>
   </ul>
