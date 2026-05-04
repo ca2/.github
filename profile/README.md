@@ -98,6 +98,14 @@ Working on this one-liner to setup coding ambient at Unix (going to test at macO
 a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
 ```
 
+### Extras command Line one-liner
+
+
+#### bash>
+```bash
+a=https://ca2.site/extras;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget && wget -qO- $a | sh)
+```
+
 # Features
 <details>
   <summary>Easily integratable with new components and workflows</summary>
