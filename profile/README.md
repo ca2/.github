@@ -1,4 +1,4 @@
-<h2>https://ca2.software/</h2>
+<h2>https://ca2.site/</h2>
   <div align="left">
   <h1>Application Code with single source<br>
     <img src="https://github.com/ca2/app/blob/main/acme/ca2-4c-128.png" alt="logo" width="200" height="auto" />
