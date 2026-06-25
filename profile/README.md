@@ -49,7 +49,7 @@
 <h4>
     <a href="https://github.com/ca2/app">View Demo</a>
   <span> · </span>
-    <a href="https://ca2.software/documentation/">Documentation</a>
+    <a href="https://ca2.site/documentation/">Documentation</a>
   <span> · </span>
     <a href="https://github.com/ca2/app/issues/">Report Bug</a>
   <span> · </span>
@@ -78,9 +78,9 @@ Manual steps are described below:
 
 ### Graphical download
 
-- [https://windows.ca2.store/x64/code.exe](https://windows.ca2.store/x64/code.exe)
-- [https://windows.ca2.store/arm64/code.exe](https://windows.ca2.store/arm64/code.exe)
-- [https://macos.ca2.store/code.zip](https://macos.ca2.store/code.zip)
+- [https://windows.ca2.store/x64/code.exe](https://windows.ca2.site/x64/code.exe)
+- [https://windows.ca2.store/arm64/code.exe](https://windows.ca2.site/arm64/code.exe)
+- [https://macos.ca2.store/code.zip](https://macos.ca2.site/code.zip)
 
 ### Graphical one-liner
 
@@ -218,7 +218,7 @@ a=https://ca2.site/2;c=command;($c -V curl && curl -fsSL $a | sh)||($c -V wget &
 <details>
   <summary>Website</summary>
   <ul>
-    <li>https://ca2.software/</li>
+    <li>https://ca2.site/</li>
   </ul>
 </details>
 
