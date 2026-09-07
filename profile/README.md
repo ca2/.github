@@ -75,6 +75,7 @@ Manual steps are described below:
 - [Windows](windows.md)
 - [Ubuntu](ubuntu.md) (can be adapted to be used on other distros).
 - [macOS](macos.md)
+- [Solaris](solaris.md) *New*
 
 ### Graphical download
 
