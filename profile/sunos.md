@@ -1,5 +1,5 @@
 <!-- Installation -->
-## Installation for a Solaris system (In progress - testing at OpenIndiana...)
+## Installation for a SunOS system (In progress - testing at OpenIndiana...)
 
 
 ### Create directory
@@ -9,9 +9,9 @@ mkdir -p $HOME/code/operating_system
 ```
 
 ### Set up build environment
-Clone tool-solaris at code/operating_system folder
+Clone tool-sunos at code/operating_system folder
 ```bash
-git clone https://github.com/ca2/tool-solaris $HOME/code/operating_system/tool
+git clone https://github.com/ca2/tool-sunos $HOME/code/operating_system/tool
 cd $HOME/code/operating_system/tool/bin
 ./patch_shell
 ```
