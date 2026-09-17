@@ -22,7 +22,7 @@ Reopen terminal to load extended PATH environment variable.
 
 ### Clone the project
 ```bash
-git clone https://github.com/ca2/macos-simple-workspace $HOME/workspace/simple --recurse-submodules
+git clone https://github.com/ca2/macos-simple $HOME/workspace/simple --recurse-submodules
 ```
 
 ### Run prepare_applications
