@@ -6,14 +6,14 @@
 ### Create directory
 
 ```bash
-mkdir -p $HOME/workspace/operating_system
+mkdir -p $HOME/code/operating_system
 ```
 
 ### Set up build environment
 Clone tool-macos at workspace/operating_system folder
 ```bash
-git clone https://github.com/ca2/tool-macos $HOME/workspace/operating_system/tool-macos
-cd $HOME/workspace/operating_system/tool-macos/bin
+git clone https://github.com/ca2/tool-macos $HOME/code/operating_system/tool
+cd $HOME/workspace/operating_system/tool/bin
 ./patch_shell
 ```
 ./patch_shell changes .zhrc and .profile. Please check and see if it is ok (always open to suggestions).
@@ -22,12 +22,12 @@ Reopen terminal to load extended PATH environment variable.
 
 ### Clone the project
 ```bash
-git clone https://github.com/ca2/macos-simple $HOME/workspace/simple --recurse-submodules
+git clone https://github.com/ca2/macos-simple $HOME/code/simple --recurse-submodules
 ```
 
 ### Run prepare_applications
 ```bash
-cd $HOME/workspace/simple
+cd $HOME/code/simple
 checkout
 prepare_applications
 ```
@@ -37,7 +37,7 @@ prepare_applications
 
 ```bash
 # Xcode
-open $HOME/workspace/simple/simple.xcworkspace
+open $HOME/code/simple/simple.xcworkspace
 ```
 
 
