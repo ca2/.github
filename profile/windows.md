@@ -88,7 +88,7 @@ cd $HOME/code/simple
 repair-git-symlinks
 ```
 
-If you have Tortoise Git installed, you can use it for restoring symbolic links: [repair-git-symlinks-with-tortoise-git.md](repair-git-symlinks-with-tortoise-git.md)
+If you have Tortoise Git installed, you can use it for restoring symbolic links: [windows-repair-git-symlinks-with-tortoise-git.md](windows-repair-git-symlinks-with-tortoise-git.md)
 
 ### Update the source
 To get the latest sources, you can run the `checkout` command.
