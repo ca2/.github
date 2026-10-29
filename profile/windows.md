@@ -75,18 +75,20 @@ At Git bash.
 git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-submodules
 ```
 
-### Symbolic links will be broken, so...
+### Symbolic links maybe be broken, if so...
 
-1. Enable Developer Mode for Windows at Developer Settings (If you havent't done so yet).
-2. Install Tortoise Git
+A symbolic link may be broken when it is just a file containing a path to the original file/folder, instead of actually a symbolic link to it.
 
-[https://tortoisegit.org/](https://tortoisegit.org/)
+- Enable Developer Mode for Windows at Developer Settings (If you havent't done so yet).
 
-4. Delete folder %USERPROFILE%\code\simple\port\include
-5. Revert %USERPROFILE%\code\simple\port\include deletion using Tortoise Git by right clicking %USERPROFILE%\code\simple\port and clicking Revert option in Context Menu Tortoise Git Sub Menu
-6. At Tortoise Git Revert Screen, select everything and then click Revert.
 
-When reverting using Tortoise Git, symbolic links are created correctly.
+To fix them in the git repository, at Git bash.
+```bash
+cd $HOME/code/simple
+repair-git-symlinks
+```
+
+If you have Tortoise Git installed, you can use it for restoring symbolic links: [repair-git-symlinks-with-tortoise-git.md](repair-git-symlinks-with-tortoise-git.md)
 
 ### Update the source
 To get the latest sources, you can run the `checkout` command.
