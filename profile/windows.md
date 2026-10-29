@@ -75,7 +75,7 @@ At Git bash.
 git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-submodules
 ```
 
-### Symbolic links maybe be broken, if so...
+### Symbolic links maybe be broken...
 
 A symbolic link may be broken when it is just a file containing a path to the original file/folder, instead of actually a symbolic link to it.
 
