@@ -65,7 +65,7 @@ We are going to add two paths to the PATH environment variable:
 12. Done!
 
 ### Download and uncompress storage-windows
-Unzip [https://ca2.network/download/storage/storage-windows.zip](https://ca2.network/download/storage/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
+Unzip [https://ca2.site/download/storage-windows.zip](https://ca2.site/download/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone "simple" solution: a solution with a couple of "simple" applications
 Suggested name of folder is simple.
