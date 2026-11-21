@@ -48,7 +48,7 @@ git clone https://github.com/ca2/tool-windows $HOME/code/operating_system/tool -
 ### Update PATH environment variable
 We are going to add two paths to the PATH environment variable:
 
-- `%USERPROFILE%\code\operating_system\bin`
+- `%USERPROFILE%\code\operating_system\tool\bin`
 #### For Intel/AMD
 - `%USERPROFILE%\code\operating_system\tool\bin\x64`
 #### For ARM
