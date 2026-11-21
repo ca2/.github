@@ -67,7 +67,7 @@ We are going to add two paths to the PATH environment variable:
 11. Click Ok at `System Properties` dialog.
 12. Done!
 
-### Download and uncompress storage-windows
+### Download and uncompress storage-windows (maybe this isn't needed anymore, application_build_helper would do it automagically...)
 Unzip [https://ca2.site/download/storage-windows.zip](https://ca2.site/download/storage-windows.zip) to `C:\Users\<username>\code\operating_system\storage-windows`.
 
 ### Clone "simple" solution: a solution with a couple of "simple" applications
