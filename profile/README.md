@@ -57,6 +57,10 @@
   </h4>
 </div>
 
+## A general todo
+
+- [General TODO](general_todo.md)
+
 <br />
 
 ## Automated Installation for Windows
