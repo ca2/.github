@@ -93,3 +93,24 @@ try hard to use vkvg at draw2d_vkvg by making transparence/translucency work
 (remark by camilo: monitor->hello_space<-continuum with monitor showing animated hello multiverse)
 
 2026-09-05 16:19 V0idsEmbrace: do you still have the orbiting point lights? (while running app-graphics3d/continuum)
+
+
+
+
+
+3:15orvow: what's up
+Moderator
+3:22Moderator badgePrime badgelowluds: does weather detect your location?
+Subscriber
+3:234-Month Subscriber badgeSUBtember 2025 badgetarbhdha: it teleports you to curitiba
+Moderator
+3:24Moderator badgePrime badgelowluds: Windows.Devices.Geolocation
+Moderator
+3:24Moderator badgePrime badgelowluds: GeoClue2 (via D-Bus)
+Moderator
+3:25Moderator badgePrime badgelowluds: true true
+Moderator
+3:28Moderator badgePrime badgelowluds: too much to do
+
+Lowluds suggested weather to detect Location:
+I think a Location tab in weather with last accessed location, the possiblity to detect a location, and bookmark locations.
