@@ -75,7 +75,7 @@ Suggested name of folder is simple.
 
 At Git bash.
 ```bash
-git clone https://github.com/ca2/windows-simple $HOME/code/simple --recurse-submodules
+git clone --recurse-submodules --branch latest_release https://github.com/ca2/windows-simple $HOME/code/simple
 ```
 
 ### Symbolic links maybe be broken...
