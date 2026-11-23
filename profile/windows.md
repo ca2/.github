@@ -55,16 +55,6 @@ repair-git-symlinks
 
 If you have Tortoise Git installed, you can use it for restoring symbolic links: [windows-repair-git-symlinks-with-tortoise-git.md](windows-repair-git-symlinks-with-tortoise-git.md)
 
-### Update the source
-To get the latest sources, you can run the `checkout` command.
-At Git bash.
-
-```bash
-cd   $HOME/code/windows-simple/windows-simple
-checkout
-```
-checkout is a command found in %USERPROFILE%\code\operating_system\tool\bin\checkout
-
 ### Open "simple" solution at Visual Studio
 
 * Install Visual Studio 2026.
@@ -72,12 +62,12 @@ At Visual Studio Installer, select `Desktop Development with C++`
   
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
   
-* Open `%USERPROFILE%\code\simple\solution-windows\simple.sln` project.
+* Open `%USERPROFILE%\code\windows-simple\windows-simple\solution-windows\simple.sln` project.
 
 ### Set "shared_app_simple_drawing" as Startup Project
 
-* Right click the project "shared_app_simple_drawing" at "Solution Explorer" and click option "Set as Startup Project"
-* Click the play button to Run the shared_app_simple_drawing project
+* Right click the project "_app_simple_drawing" at "Solution Explorer" and click option "Set as Startup Project"
+* Click the play button to Run the _app_simple_drawing project
 
 It will build the platform and the application and then run it.
 
